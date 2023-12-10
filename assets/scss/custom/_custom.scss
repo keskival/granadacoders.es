@@ -1,0 +1,33 @@
+.post-body {
+    a {
+        text-decoration: underline;
+        color: var(--color-contrast-higher);
+        text-decoration-color: var(--color-primary);
+        &:hover {
+            text-decoration-color: alpha(var(--color-primary), 0.5);
+        }
+    }
+}
+
+@media (max-width: $maxWidth) {
+    .header.open {
+        @keyframes appear {
+            0% {
+                opacity: 0;
+                z-index: 0;
+                height: 0;
+                margin: 0;
+                transform: scaleY(0);
+                transform-origin: top;
+            }
+            100% {
+                opacity: 1;
+                z-index: 100;
+                height: $navHeight;
+                margin: 2em 0;
+                transform: scaleY(1);
+                transform-origin: top;
+            }
+        }
+    }
+}
