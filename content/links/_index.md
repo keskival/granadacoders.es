@@ -8,6 +8,10 @@ It is important to take back control of the web from the monopolistic search eng
 
 None of these links are associated with GranadaCoders.es unless specifically mentioned. These are not paid advertisements. If you want to add links, submit a PR, as described here: [GranadaCoders.es GitHub project](https://github.com/keskival/granadacoders.es).
 
+## Sister Sites
+
+- [CostaCoders.es](https://costacoders.es)
+
 ## Sites and Companies without Tracking Cookies and Ads
 
 - [Complexical](http://complexical.com): Consultancy on AI and Data Strategy, sustainable and ethical computing
