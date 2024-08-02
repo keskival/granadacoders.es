@@ -1,5 +1,5 @@
 ---
-title: "Meta refuses to cite my open source project to maintain a claim of novelty"
+title: "Meta FAIR refuses to cite my open source project to maintain a claim of novelty"
 date: 2024-08-02
 author: Tero Keski-Valkama
 draft: false
@@ -16,7 +16,7 @@ The project is just a proof-of-concept, describing the hypothesis and running th
 on OpenAI ChatGPT-3.5. It produces ranked data which can be used for reinforcement learning, DPO or even supervised continual training
 to improve the model performance on these kinds of open ended tasks.
 
-In July 2023 Meta published a pre-print on Arxiv titled: [Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge](https://arxiv.org/abs/2407.19594).
+In July 2023 Meta FAIR published a pre-print on Arxiv titled: [Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge](https://arxiv.org/abs/2407.19594).
 
 This pre-print describes the exact idea of evaluating the evaluations which I had described before, with a meta-judge.
 
