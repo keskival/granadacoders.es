@@ -38,6 +38,8 @@ They responded very fast: "Thanks for the link.. ! Respectfully, not sure that's
 
 ![Screenshot of the email](/imgs/meta-refuses-to-cite-their-response.png)
 
+This is not ok.
+
 It is natural that they don't want to cite existing art because it invalidates their claim of novelty. Furthermore, I would say my method
 is actually an evolution over theirs, because it ranks instead of scores, and also it ranks problem creation task as well.
 
