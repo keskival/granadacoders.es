@@ -53,3 +53,4 @@ Here are some posts where more discussion about this is happening. Feel free to 
 - [LinkedIn post](https://www.linkedin.com/posts/terokeskivalkama_meta-fair-fails-to-cite-my-pre-existing-publication-activity-7224732917132894209-WYKA)
 - [Mastodon post](https://rukii.net/@tero/112886575304660317)
 - [Facebook post](https://www.facebook.com/KohrAh/posts/pfbid02mc3PNxESy55M8uj6i9iD4uw69YjaoTWUy5J9RX4XfxAZ6Nnj8Prx2nE85WJKJmdql)
+- [Hacker News post](https://news.ycombinator.com/item?id=41137791)
