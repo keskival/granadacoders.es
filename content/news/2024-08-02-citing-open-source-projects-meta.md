@@ -5,7 +5,7 @@ author: Tero Keski-Valkama
 draft: false
 ---
 
-I have been working in AI for decades ([1](https://www.linkedin.com/in/terokeskivalkama/) [2](https://scholar.google.com/citations?user=l7qMBpkAAAAJ)). In the end of 2023 I started talking about bootstrapping recursive self-improvement
+I have been working in AI for decades ([1](https://www.linkedin.com/in/terokeskivalkama/) [2](https://scholar.google.com/citations?user=l7qMBpkAAAAJ) [3](https://github.com/keskival)). In the end of 2023 I started talking about bootstrapping recursive self-improvement
 of LLM chatbots using two key ideas:
 1. Open-ended, non-imitative objectives, because imitative objectives are capped at the human level.
 2. Using automatic evaluation or ranking of performances by LLMs, but crucially evaluating the act of evaluation as well so that evaluation fidelity also improves and exceeds the human level.
