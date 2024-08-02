@@ -54,3 +54,5 @@ Here are some posts where more discussion about this is happening. Feel free to 
 - [Mastodon post](https://rukii.net/@tero/112886575304660317)
 - [Facebook post](https://www.facebook.com/KohrAh/posts/pfbid02mc3PNxESy55M8uj6i9iD4uw69YjaoTWUy5J9RX4XfxAZ6Nnj8Prx2nE85WJKJmdql)
 - [Hacker News post](https://news.ycombinator.com/item?id=41137791)
+
+Tero Keski-Valkama
