@@ -30,7 +30,13 @@ This is what their article says, describing this as a "novel method", proposed b
 
 These are describing the same thing.
 
-So, this is an understandable omission. People don't often Google or search existing art on GitHub, although it could be argued GitHub projects are more peer reviewed (by stars) than Arxiv preprints are. I do expect to be cited though, that's why the project has "Citing" section in the README.md, giving a convenient BibTex snippet for it.
+Here is the chatbot template they used:
+![Screenshot of the paper, description of their template](/imgs/meta-template.png)
+
+Here is the template I used:
+![Screenshot of my code, the template](/imgs/my-template.png)
+
+This is an understandable omission. People don't often Google or search existing art on GitHub, although it could be argued GitHub projects are more peer reviewed (by stars) than Arxiv preprints are. I do expect to be cited though, that's why the project has "Citing" section in the README.md, giving a convenient BibTex snippet for it.
 
 I sent them an email to the email address who submitted the paper to Arxiv.
 
