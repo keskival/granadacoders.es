@@ -28,7 +28,7 @@ I had also implemented this already ages ago [here](https://github.com/keskival/
 This is what their article says, describing this as a "novel method", proposed by them:
 ![Screenshot of the paper, parts highlighted describing evaluating the evaluations](/imgs/meta-refuses-to-cite-their-paper.png)
 
-These are describing the same thing, although their paper assigns scores out of 5, while my project ranks. Ranking is of course a superior option because it's open ended by nature, and won't get stuck at the top score.
+These are describing the same thing.
 
 So, this is an understandable omission. People don't often Google or search existing art on GitHub, although it could be argued GitHub projects are more peer reviewed (by stars) than Arxiv preprints are. I do expect to be cited though, that's why the project has "Citing" section in the README.md, giving a convenient BibTex snippet for it.
 
@@ -41,7 +41,7 @@ They responded very fast: "Thanks for the link.. ! Respectfully, not sure that's
 This is not ok.
 
 It is natural that they don't want to cite existing art because it invalidates their claim of novelty. Furthermore, I would say my method
-is actually an evolution over theirs, because it ranks instead of scores, and also it ranks problem creation task as well.
+is actually an evolution over theirs, because it ranks problem creation task as well.
 
 It is however a severe breach of scientific ethics. They cannot claim proposing a novelty when someone else has proposed it before.
 
