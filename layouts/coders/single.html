@@ -23,6 +23,12 @@
             <td><a href="{{.Params.linkedin}}" target="_blank" rel="noopener">{{.Params.linkedin}}</a></td>
           </tr>
           {{ end }}
+          {{ if $.Params.codeberg }}
+          <tr>
+            <td>Codeberg</td>
+            <td><a href="{{.Params.codeberg}}" target="_blank" rel="noopener">{{.Params.codeberg}}</a></td>
+          </tr>
+          {{ end }}
           {{ if $.Params.github }}
           <tr>
             <td>GitHub</td>
