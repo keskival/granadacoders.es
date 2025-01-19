@@ -20,3 +20,4 @@ None of these links are associated with GranadaCoders.es unless specifically men
 
 - [Animal Coffee](https://animalcoffee.es): Very good coffee beans, home delivered
 - [Spain in Fediverse project](https://nokorpo.github.io/spain-into-the-fediverse/)
+- [Pedro Verde community site](https://pedroverde.es)
