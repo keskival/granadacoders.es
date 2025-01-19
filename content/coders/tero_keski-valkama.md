@@ -7,6 +7,7 @@ xing: https://www.xing.com/profile/Tero_KeskiValkama/cv
 mastodon: https://rukii.net/@tero
 scholar: https://scholar.google.com/citations?user=l7qMBpkAAAAJ
 twitter: https://twitter.com/keskival
+codeberg: https://codeberg.org/keskival
 homepage: https://www.neter.fi/tero/
 tags:
 - AI
